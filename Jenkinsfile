@@ -3,7 +3,7 @@ pipeline {
 stages {
       stage('Git Checkout') {
          steps {
-            git 'https://github.com/AmalaSuram/FoodZone.git'
+            git 'https://github.com/adil1806/newwideproject.git'
 }
 }
 stage('Build') {
